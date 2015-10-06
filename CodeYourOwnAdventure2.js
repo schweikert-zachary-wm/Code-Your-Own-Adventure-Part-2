@@ -247,3 +247,5 @@ if (two === "TAKE PILL") {
 } else if (two !== "TAKE PILL") {
     alert("You don't take the pill. You lose."); //add text
 }
+
+//Daucen, Calvin, and I worked together on this.//
